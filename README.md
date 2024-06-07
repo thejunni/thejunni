@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-I am a Website Developer with experience in several programming languages such as PHP, Go, and JavaScript. I have approximately 2 years of experience in the programming world, working at BIMBEL TARUNA WIRATAMA as a Web App Admin Developer for BTW Edutech. I am also currently studying at INSTIKI, majoring in Information Data Management. In terms of my skills, I have a deep understanding of the LARAVEL framework..<br>
+ I am a Website Developer with experience in several programming languages such as PHP, Go, and JavaScript. I have approximately 2 years of experience (2022 - 2024) in the programming world, having worked at BIMBEL TARUNA WIRATAMA as a Web App Admin Developer for BTW Edutech. I am also currently studying at INSTIKI, majoring in Information Data Management. In terms of my skills, I have a deep understanding of the LARAVEL framework...<br>
 
 ![](https://komarev.com/ghpvc/?username=SiwaSathya&color=447ff7&label=Visitor+count)
 
